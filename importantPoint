@@ -1,0 +1,7 @@
+==> Difference Between Node.js and Express.js
+    Node.js -->> Node.js is an open source and cross-platform runtime environment for executing 
+                JavaScript code outside of a browser. 
+                Node.js is not a programming language and it is also not a function.
+    Express.js -->> Express is a small framework that sits on top of Nodejs's web server functionality
+                to simplify its API and helful new features.
+    link to know more -->> https://www.geeksforgeeks.org/node-js-vs-express-js/
