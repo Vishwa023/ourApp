@@ -5,3 +5,15 @@
     Express.js -->> Express is a small framework that sits on top of Nodejs's web server functionality
                 to simplify its API and helful new features.
     link to know more -->> https://www.geeksforgeeks.org/node-js-vs-express-js/
+
+==> What is Express ?
+    Express has a lot of features built in, and a lot more features you can get from other packages 
+    that integrate seamlessly, but there are three main things it does for you out of the box:
+
+    -->> Routing: This is how /home /blog and /about all give you different pages. Express makes it
+    easy for you to modularize this code by allowing you to put different routes in different files.
+    -->> Middleware: If you’re new to the term, basically middleware is “software glue”. It accesses 
+    requests before your routes get them, allowing them to handle hard-to-do stuff like cookie parsing, 
+    file uploads, errors, and more.
+    -->> Views. Views are how HTML pages are rendered with custom content. You pass in the data you want 
+    to be rendered and Express will render it with your given view engine.
